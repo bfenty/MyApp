@@ -1,8 +1,5 @@
-//-------------------------- 3/21/2014 -- 13:33:16 -----
+//-------------------------- 3/21/2014 -- 14:56:45 -----
 Console trace is off.
-Taml: Could not load Taml XML file from stream.
-Taml::read() - Failed to load an object from the file '/Volumes/Storage 1/Games/Torque/MyApp/modules/module.taml'.
-Module Manager: Failed to read module definition in file '/Volumes/Storage 1/Games/Torque/MyApp/modules/module.taml'.
 using display 0x4273240
 Activating the OpenGL display device...
  OpenGLDevice activating...
