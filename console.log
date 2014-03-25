@@ -1,12 +1,12 @@
-//-------------------------- 3/24/2014 -- 15:08:20 -----
+//-------------------------- 3/25/2014 -- 09:28:12 -----
 Console trace is off.
-using display 0x4273240
+using display 0x1a48cb24
 Activating the OpenGL display device...
  OpenGLDevice activating...
 OpenGL driver information:
-  Vendor: Intel Inc.
-  Renderer: Intel HD Graphics 3000 OpenGL Engine
-  Version: 2.1 INTEL-8.24.11
+  Vendor: NVIDIA Corporation
+  Renderer: NVIDIA GeForce GTX 650 OpenGL Engine
+  Version: 2.1 NVIDIA-8.18.22 310.40.05f01
 OpenGL Init: Enabled Extensions
   ARB_multitexture (Max Texture Units: 8)
   EXT_blend_color
@@ -27,18 +27,26 @@ OpenGL Init: Disabled Extensions
   3DFX_texture_compression_FXT1
 
  set screen mode 1024 x 768 x 32, windowed, force it, dont repaint
-Max Texture Size reported as: 8192
+Max Texture Size reported as: 16384
  set screen mode 1024 x 768 x 32, windowed, dont force it, repaint
 Killing the texture manager...
 Resurrecting the texture manager...
 OpenAL Driver Init
 OpenAL Driver Init Success
-Missing file: /Volumes/Storage 1/Desktop/root/modules/Console/1/scripts/console.cs!
-Missing file: /Volumes/Storage 1/Desktop/root/modules/Console/1/gui/guiProfiles.cs!
-Taml::read() - Could not open filename '/Volumes/Storage 1/Desktop/root/modules/Console/1/gui/ConsoleDialog.gui.taml' for read.
+Missing file: /Users/bfenty/Games/MyApp/modules/Console/1/scripts/console.cs!
+Missing file: /Users/bfenty/Games/MyApp/modules/Console/1/gui/guiProfiles.cs!
+Taml::read() - Could not open filename '/Users/bfenty/Games/MyApp/modules/Console/1/gui/ConsoleDialog.gui.taml' for read.
 TamlRead() - Could not read object from file './gui/ConsoleDialog.gui.taml'.
 Set::add: Object "" doesn't exist
 @@@ Console::create function called
+toggleConsole: Unknown command.
+toggleConsole: Unknown command.
+toggleConsole: Unknown command.
+toggleConsole: Unknown command.
+toggleConsole: Unknown command.
+toggleConsole: Unknown command.
+toggleConsole: Unknown command.
+toggleConsole: Unknown command.
 @@@ Console::destroy function called
 Shutting down the OpenGL display device...
 Killing the texture manager...
