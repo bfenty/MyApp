@@ -1,4 +1,4 @@
-//-------------------------- 3/21/2014 -- 14:56:45 -----
+//-------------------------- 3/24/2014 -- 15:08:20 -----
 Console trace is off.
 using display 0x4273240
 Activating the OpenGL display device...
@@ -33,5 +33,12 @@ Killing the texture manager...
 Resurrecting the texture manager...
 OpenAL Driver Init
 OpenAL Driver Init Success
+Missing file: /Volumes/Storage 1/Desktop/root/modules/Console/1/scripts/console.cs!
+Missing file: /Volumes/Storage 1/Desktop/root/modules/Console/1/gui/guiProfiles.cs!
+Taml::read() - Could not open filename '/Volumes/Storage 1/Desktop/root/modules/Console/1/gui/ConsoleDialog.gui.taml' for read.
+TamlRead() - Could not read object from file './gui/ConsoleDialog.gui.taml'.
+Set::add: Object "" doesn't exist
+@@@ Console::create function called
+@@@ Console::destroy function called
 Shutting down the OpenGL display device...
 Killing the texture manager...
